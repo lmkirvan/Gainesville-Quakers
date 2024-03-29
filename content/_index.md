@@ -11,9 +11,9 @@
 
 #Details for the box below the banner
 [services]
-  title = "Church on Sunday"
-  text = "We meet at 5 am and 2 pm at [6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris](https://www.openstreetmap.org/way/201611261)."
-  map_location = "Cathédrale Notre-Dame de Paris"
+  title = "Meeting for Worship"
+  text = "First Day (Sunday) 11 AM at [702 NW 38th Street - Gainesville, FL 32607 - United States](https://www.openstreetmap.org/way/201611261)."
+  map_location = "Gainesville Quaker Meetinghouse"
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.

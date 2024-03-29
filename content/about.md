@@ -1,6 +1,6 @@
 ---
-title: "About Meeting"
-subtitle: ""
+title: "About Us"
+subtitle: "Quaker Worship"
 images: ["img/freely-20445.jpg"]
 draft: false
 ---
