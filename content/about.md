@@ -2,7 +2,7 @@
 title: "About Us"
 subtitle: "Quaker Worship"
 images: ["img/freely-20445.jpg"]
-draft: false
+draft: true
 ---
 
 You do not have to be a Quaker to attend Quaker meetings, which are open to all. If you would like to join us and share in our stillness you would be most welcome. Children, too, are welcome.
