@@ -34,6 +34,7 @@
     accent = "2"
     title = "Meet"
     text = "Meeting together to hear."
+    url = "/about"
 
   [[feature_icons.tile]]
     icon = "fa-comments"

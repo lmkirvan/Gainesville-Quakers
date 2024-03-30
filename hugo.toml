@@ -20,7 +20,7 @@ enableInlineShortcodes = true
 
 [taxonomies]
   tag = "tags"
-  preacher = "preachers"
+  members = "members"
   series = "series"
 
 #This theme can generate a multi-level menu.
@@ -42,6 +42,11 @@ enableInlineShortcodes = true
     url = "/about"
     weight = 1
 
+  [[menu.main]]
+    name = "Our members"
+    parent = "About"
+    url = "/members"
+    weight = 1
 
   [[menu.main]]
     name = "Resources"
@@ -49,28 +54,21 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
-    name = "Sermons"
-    url = "/sermons"
+    name = "Quaker Worship"
+    url = "/worship"
     parent = "Resources"
     weight = 1
 
   [[menu.main]]
-    name = "Preachers"
-    url = "/preachers"
-    parent = "Sermons"
-    weight = 1
-
-  [[menu.main]]
-    name = "Best Ever"
-    url = "#"
-    parent = "Sermons"
+    name = "Our Space"
+    url = "/meetinghouse"
+    parent = "Resources"
     weight = 1
 
   [[menu.main]]
     name = "Blog"
     url = "/posts"
-    parent = "Resources"
-    weight = 2
+    weight = 1
 
   [[menu.main]]
     name = "Contact"
@@ -96,7 +94,7 @@ enableInlineShortcodes = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/banner.jpg"
+    image = "img/Meetinghouse.gif"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
