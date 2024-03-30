@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
   title = "Meeting for Worship"
-  text = "First Day (Sunday) 11 AM at [702 NW 38th Street - Gainesville, FL 32607 - United States](https://www.openstreetmap.org/way/201611261)."
+  text = "First Day (Sunday) 11 AM at [702 NW 38th Street - Gainesville, FL 32607 - United States](https://www.google.com/maps/place/Quaker+Meeting/@29.6583265,-82.4193001,14z/data=!4m10!1m2!2m1!1sGainesville+friends+quaker!3m6!1s0x88e8a356bb7ab3d1:0x58abe9a8d2fc38f7!8m2!3d29.6583265!4d-82.3811913!15sChpHYWluZXN2aWxsZSBmcmllbmRzIHF1YWtlcpIBDXF1YWtlcl9jaHVyY2jgAQA!16s%2Fg%2F1trtw47g?entry=ttu)."
   map_location = "Gainesville Quaker Meetinghouse"
 
 [feature_icons]
@@ -20,33 +20,34 @@
   enable = true
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
+  
   [[feature_icons.tile]]
-    icon = "fa-hands-helping"
+    icon = "fa-chair"
     icon_pack = "fas"
     accent = "1"
-    title = "Serve"
-    text = "Growing people who serve our community."
-    url = "/kids"
-
+    title = "Meet"
+    text = "Silent Worhsip"
+    url = "/about"
+  
   [[feature_icons.tile]]
-    icon = "fa-church"
+    icon = "fa-earth-africa"
     icon_pack = "fas"
     accent = "2"
-    title = "Meet"
-    text = "Meeting together to hear."
-    url = "/about"
+    title = "Stewardship"
+    text = "Serving our community and world"
+    url = "/kids"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
-    accent = "5"
-    title = "Speak"
-    text = "Speaking encouragement to one-another."
+    accent = "3"
+    title = "Peace"
+    text = "Bringing a more peaceful world into being"
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
-    accent = "3"
+    accent = "4"
     title = "Loved"
     text = "Knowing Love. Being Loved."
 
@@ -71,5 +72,5 @@
 [CTA]
   enable = true
   heading = "Get in touch!"
-  message = "We'd love to hear from you."
+  message = "We're good listeners"
 +++

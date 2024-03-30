@@ -63,7 +63,13 @@ enableInlineShortcodes = true
     name = "Our Space"
     url = "/meetinghouse"
     parent = "Resources"
-    weight = 1
+    weight = 3
+
+  [[menu.main]]
+    name = "Calendar"
+    url = "/calendar"
+    parent = "Resources"
+    weight = 2
 
   [[menu.main]]
     name = "Blog"
@@ -116,7 +122,7 @@ enableInlineShortcodes = true
     # For Open Street Map widgets
     latitude = "29.65809"
     longitude = "-82.38082"
-    zoom = "19"
+    zoom = "15"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"
     #api_key = "XXXXXXXX"
@@ -124,6 +130,8 @@ enableInlineShortcodes = true
     #region = "FR" #Optional
 
   [params.contact]
+    phone = "352-372-1017"
+    mail = "gainesville4quakers@gmail.com"
     #Use this section to automate contact form.
     #Set service to either "netlify", "formspree" or "php"
     #For formspree, please setup an account at https://formspree.io/
