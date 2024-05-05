@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="Religious Society of Friends">
 		
-		<meta name="keywords" content="theme, hugo, podcast" /><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Gainesville Quaker" /><meta name="generator" content="Hugo 0.123.8"><link rel="shortcut icon" href="/example16.png" sizes="16x16"/><link rel="shortcut icon" href="/example32.png" sizes="32x32"/>
+		<meta name="keywords" content="theme, hugo, podcast" /><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="Gainesville Quaker" /><meta name="generator" content="Hugo 0.124.1"><link rel="shortcut icon" href="/example16.png" sizes="16x16"/><link rel="shortcut icon" href="/example32.png" sizes="32x32"/>
 			<meta name="apple-itunes-app" content="app-id=1034013280" />
 		
 		<meta property="og:title" content="" />
@@ -16,13 +16,12 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://localhost:1313/" /><meta property="og:site_name" content="Gainesville Quakers" />
 
-
 		<meta name="twitter:card" content="summary"/><meta name="twitter:title" content=""/>
 <meta name="twitter:description" content=""/>
 
 		<link rel="stylesheet" href="http://localhost:1313/fontawesome/css/all.min.css" />
 		
-		<link rel="stylesheet" href="/style.main.min.9b136ae82ee8a48771272ab44a695c6474700ed1d6c12bedd5027dcbd3a6040f.css" integrity="sha256-mxNq6C7opIdxJyq0SmlcZHRwDtHWwSvt1QJ9y9OmBA8=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="http://localhost:1313/example.css"></head>
+		<link rel="stylesheet" href="/style.main.min.257330d8d9c1f70e4b63589de0f908c8934ef5bb2051d654be5a43f4041b890f.css" integrity="sha256-JXMw2NnB9w5LY1id4PkIyJNO9bsgUdZUvlpD9AQbiQ8=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="http://localhost:1313/example.css"></head>
 
 <body  class="landing"  >
   <div id="page-wrapper">
@@ -36,6 +35,14 @@
           
             
                 <li>
+                    <a href="/posts">
+                         Blog
+                    </a>
+                </li>
+            
+        
+            
+                <li>
                     <a href="/">
                          Home
                     </a>
@@ -47,23 +54,36 @@
                     <a href="/about">
                          About
                     </a>
-                </li>
-            
-        
+                    <ul>
+                      
+                          
+                            <li><a href="/about">About Us</a></li>
+                          
+                          </li>
+                      
+                          
+                            <li><a href="/members">Our members</a></li>
+                          
+                          </li>
+                      
+                    </ul>
+                  </li>
             
                 <li>
                     <a href="/#"><i class="fas fa-angle-down"></i>
                         Resources
                     </a>
                     <ul>
-                      
+                            <li><a href="/worship">Quaker Worship</a></li>
+
                           
-                            <li><a href="/news">News</a></li>
+                          </li>
+                            <li><a href="/calendar">Calendar</a></li>
                           
                           </li>
                       
                           
-                            <li><a href="/events">Events</a></li>
+                            <li><a href="/meetinghouse">Our Space</a></li>
                           
                           </li>
                       
@@ -103,7 +123,7 @@
 					<section class="box special">
 						<header class="major">
 							<h2>Meeting for Worship</h2><a name="services"></a>
-							<p>First Day (Sunday) 11 AM at <a href="https://www.openstreetmap.org/way/201611261">702 NW 38th Street - Gainesville, FL 32607 - United States</a>.</p>
+							<p>First Day (Sunday) 11 AM at <a href="https://www.google.com/maps/place/Quaker+Meeting/@29.6583265,-82.4193001,14z/data=!4m10!1m2!2m1!1sGainesville+friends+quaker!3m6!1s0x88e8a356bb7ab3d1:0x58abe9a8d2fc38f7!8m2!3d29.6583265!4d-82.3811913!15sChpHYWluZXN2aWxsZSBmcmllbmRzIHF1YWtlcpIBDXF1YWtlcl9jaHVyY2jgAQA!16s%2Fg%2F1trtw47g?entry=ttu">702 NW 38th Street - Gainesville, FL 32607 - United States</a>.</p>
 						</header>
 						
   <div id="map" class="box"></div>
@@ -115,13 +135,13 @@
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin="anonymous"></script>
     <script>
         var loc = [ 29.65809 , -82.38082 ];
-        var mymap = L.map("map").setView(loc, 19 );
+        var mymap = L.map("map").setView(loc, 15 );
         L.tileLayer(
           "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
           {
             attribution:
               'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-              maxZoom: 19 }
+              maxZoom: 15 }
         ).addTo(mymap);
           var marker = L.marker(loc).addTo(mymap);
     </script>
@@ -139,20 +159,20 @@
 							<div class="features-row">
 								
 									<section>
-										<a href="http://localhost:1313/kids"><div>
-											<span class="icon major fas fa-hands-helping accent1"></span>
-											<h3>Serve</h3>
-											<p>Growing people who serve our community.</p>
+										<a href="http://localhost:1313/about"><div>
+											<span class="icon major fas fa-chair accent1"></span>
+											<h3>Meet</h3>
+											<p>Silent Worhsip</p>
 										</div></a>
 									</section>
 									
 								
 									<section>
-										
-											<span class="icon major fas fa-church accent2"></span>
-											<h3>Meet</h3>
-											<p>Meeting together to hear.</p>
-										
+										<a href="http://localhost:1313/kids"><div>
+											<span class="icon major fas fa-earth-africa accent2"></span>
+											<h3>Stewardship</h3>
+											<p>Serving our community and world</p>
+										</div></a>
 									</section>
 									
 											</div>
@@ -161,16 +181,16 @@
 								
 									<section>
 										
-											<span class="icon major fas fa-comments accent5"></span>
-											<h3>Speak</h3>
-											<p>Speaking encouragement to one-another.</p>
+											<span class="icon major fas fa-comments accent3"></span>
+											<h3>Peace</h3>
+											<p>Bringing a more peaceful world into being</p>
 										
 									</section>
 									
 								
 									<section>
 										
-											<span class="icon major fas fa-heartbeat accent3"></span>
+											<span class="icon major fas fa-heartbeat accent4"></span>
 											<h3>Loved</h3>
 											<p>Knowing Love. Being Loved.</p>
 										
@@ -225,7 +245,7 @@
 				<section id="cta"><a name="call-to-action"></a>
 
 					<h2>Get in touch!</h2>
-					<p>We&#39;d love to hear from you.</p>
+					<p>We&#39;re good listeners</p>
 					
 
 	<form name="contact" method="POST" action="/contact_thanks" netlify>
@@ -293,7 +313,7 @@
 
 
 <!-- Scripts-HTML5up -->
-<script src="/js/jquery.min.ce9d07500ad91ec2b524c270764ec4c9a33e78320d8d374ec400ede488f6251b.js" integrity="sha256-zp0HUArZHsK1JMJwdk7EyaM&#43;eDINjTdOxADt5Ij2JRs=" crossorigin="anonymous"></script>
+<script src="/js/jquery.min.ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e.js" integrity="sha256-/xUj&#43;3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 <script src="/js/jquery.dropotron.min.4b0a4c1a278f32f74c140865e40671b5225fcb317ccde6a7ac568b7c1c1acbe0.js" integrity="sha256-SwpMGiePMvdMFAhl5AZxtSJfyzF8zeanrFaLfBway&#43;A=" crossorigin="anonymous"></script>
 <script src="/js/jquery.scrollex.min.fc25b75fb3fc8b42756413be387e0d7a602813125283d2384551961d73ea784e.js" integrity="sha256-/CW3X7P8i0J1ZBO&#43;OH4NemAoExJSg9I4RVGWHXPqeE4=" crossorigin="anonymous"></script>
 <script src="/js/browser.min.87910d5ed0053d90caf83230a2f1811d8679815da01f7bdec7548e776d7f04c4.js" integrity="sha256-h5ENXtAFPZDK&#43;DIwovGBHYZ5gV2gH3vex1SOd21/BMQ=" crossorigin="anonymous"></script>

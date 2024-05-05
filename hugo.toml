@@ -21,7 +21,7 @@ enableInlineShortcodes = true
 
 [taxonomies]
   tag = "tags"
-  preacher = "preachers"
+  members = "members"
   series = "series"
 
 #This theme can generate a multi-level menu.
@@ -37,6 +37,18 @@ enableInlineShortcodes = true
     url = "/about"
     weight = 2
 
+  [[menu.main]]
+    name = "About Us"
+    parent = "About"
+    url = "/about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Our members"
+    parent = "About"
+    url = "/members"
+    weight = 1
+
 
   [[menu.main]]
     name = "Resources"
@@ -44,16 +56,27 @@ enableInlineShortcodes = true
     weight = 3
 
   [[menu.main]]
-    name = "News"
-    url = "/news"
+    name = "Quaker Worship"
+    url = "/worship"
     parent = "Resources"
     weight = 1
 
   [[menu.main]]
-    name = "Events"
-    url = "/events"
+    name = "Our Space"
+    url = "/meetinghouse"
+    parent = "Resources"
+    weight = 3
+
+  [[menu.main]]
+    name = "Calendar"
+    url = "/calendar"
     parent = "Resources"
     weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts"
+    weight = 1
 
   [[menu.main]]
     name = "Contact"
@@ -79,7 +102,7 @@ enableInlineShortcodes = true
     #lge = "example96.png"
 
   [params.banner]
-    image = "img/banner.jpg"
+    image = "img/Meetinghouse.gif"
 
 #  [params.style]
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
@@ -101,7 +124,7 @@ enableInlineShortcodes = true
     # For Open Street Map widgets
     latitude = "29.65809"
     longitude = "-82.38082"
-    zoom = "19"
+    zoom = "15"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"
     #api_key = "XXXXXXXX"
@@ -109,6 +132,8 @@ enableInlineShortcodes = true
     #region = "FR" #Optional
 
   [params.contact]
+    phone = "352-372-1017"
+    mail = "gainesville4quakers@gmail.com"
     #Use this section to automate contact form.
     #Set service to either "netlify", "formspree" or "php"
     #For formspree, please setup an account at https://formspree.io/
