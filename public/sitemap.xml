@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40851/</loc>
-    <lastmod>2024-03-23T10:23:57-04:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-29T12:05:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:40851/calendar/</loc>
+    <loc>http://localhost:1313/events/</loc>
+    <lastmod>2024-03-29T12:05:38-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news/</loc>
+    <lastmod>2024-03-23T10:23:57-04:00</lastmod>
   </url><url>
     <loc>http://localhost:40851/members/</loc>
   </url><url>
