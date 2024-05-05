@@ -37,29 +37,15 @@
     text = "Serving our community and world"
     url = "/kids"
 
-  [[feature_icons.tile]]
-    icon = "fa-comments"
-    icon_pack = "fas"
-    accent = "3"
-    title = "Peace"
-    text = "Bringing a more peaceful world into being"
-
-  [[feature_icons.tile]]
-    icon = "fa-heartbeat"
-    icon_pack = "fas"
-    accent = "4"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
-
 [feature_images]
 #These feature images look best if there's an even number of them.
   enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
+    image = "img/afsc_star"
+    title = "Friends Service"
+    text = "American Friends Service Committee."
+    url = "//afsc.org"
     button_text = "Learn more"
 
   [[feature_images.tile]]
