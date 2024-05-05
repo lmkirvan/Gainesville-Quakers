@@ -2,7 +2,7 @@
 title: "Quaker Worship"
 subtitle: "Silent Worship"
 images: ["img/freely-20445.jpg"]
-draft: false
+draft: true
 ---
 
 Quaker meetings are open to all. If you would like to join us and share in our stillness you would be most welcome. Children, too, are welcome.
