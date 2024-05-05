@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 subtitle: ""
-images: ["img/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"]
+images: ["img/sunset.jpg"]
 tags: ""
 draft: true
 ---

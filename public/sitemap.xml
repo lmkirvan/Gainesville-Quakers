@@ -11,16 +11,16 @@
     <loc>http://localhost:1313/news/</loc>
     <lastmod>2024-03-23T10:23:57-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/calendar/</loc>
+    <loc>http://localhost:40851/members/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:40851/meetinghouse/</loc>
   </url><url>
-    <loc>http://localhost:1313/members/</loc>
+    <loc>http://localhost:40851/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:40851/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:40851/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:40851/contact_thanks/</loc>
   </url>
 </urlset>
