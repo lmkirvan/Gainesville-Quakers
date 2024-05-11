@@ -27,7 +27,7 @@
     accent = "1"
     title = "Meet"
     text = "Silent Worhsip"
-    url = "/about"
+    url = "/meetinghouse"
   
   [[feature_icons.tile]]
     icon = "fa-earth-africa"
@@ -35,25 +35,24 @@
     accent = "2"
     title = "Stewardship"
     text = "Serving our community and world"
-    url = "/kids"
+    url = "/steward"
 
 [feature_images]
-#These feature images look best if there's an even number of them.
   enable = true
 
   [[feature_images.tile]]
-    image = "img/afsc_star"
+    image = "img/afsc_star.png"
     title = "Friends Service"
     text = "American Friends Service Committee."
     url = "//afsc.org"
     button_text = "Learn more"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
-    url = "#"
-    button_text="Join a group today!"
+    image = "img/SEYM-Logo-v2.png"
+    title = "Southeastern Yearly Meeting"
+    text = "Meetings around the rest of the Southeast"
+    url = "//seymquakers.org/"
+    button_text="Learn about SEYM!"
 
 [CTA]
   enable = true

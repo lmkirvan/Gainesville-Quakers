@@ -8,7 +8,7 @@ draft: false
 
 ## Our meetinghouse is open to all.
 
-Please come and join us! Our [about page](\about) has more information about Quaker worship. 
+Please come and join us! Our [about page](/about) has more information about Quaker worship. 
 
 ### Meeting in nature
 
