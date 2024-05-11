@@ -49,7 +49,6 @@ enableInlineShortcodes = true
     url = "/members"
     weight = 1
 
-
   [[menu.main]]
     name = "Resources"
     url = "#"
@@ -94,8 +93,8 @@ enableInlineShortcodes = true
   [params.banner]
     image = "img/Meetinghouse.gif"
 
-#  [params.style]
-#    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
+  [params.style]
+    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
 
   [params.podcast]
     title = "Listen to Alpha Church"
