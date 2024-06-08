@@ -3,7 +3,7 @@ title: "Contact"
 subtitle: ""
 images: ["img/sunset.jpg"]
 tags: ""
-draft: true
+draft: false
 ---
 
 {{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}
