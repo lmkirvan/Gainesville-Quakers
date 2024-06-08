@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:42857/</loc>
     <lastmod>2024-03-29T12:05:38-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/events/</loc>
+    <loc>//localhost:42857/events/</loc>
     <lastmod>2024-03-29T12:05:38-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/calendar/</loc>
+    <loc>//localhost:42857/calendar/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>//localhost:42857/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/members/</loc>
+    <loc>//localhost:42857/members/</loc>
   </url><url>
-    <loc>//localhost:1313/meetinghouse/</loc>
+    <loc>//localhost:42857/meetinghouse/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:42857/about/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>//localhost:42857/series/</loc>
   </url><url>
-    <loc>//localhost:1313/steward/</loc>
+    <loc>//localhost:42857/steward/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:42857/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/contact_thanks/</loc>
+    <loc>//localhost:42857/contact_thanks/</loc>
   </url>
 </urlset>
