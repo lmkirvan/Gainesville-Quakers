@@ -1,6 +1,6 @@
 ---
 title: "Members"
-subtitle: ""
+subtitle: "We have some!"
 tags: ""
 draft: false
 ---

@@ -22,7 +22,7 @@
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   
   [[feature_icons.tile]]
-    icon = "fa-chair"
+    icon = "fa-users"
     icon_pack = "fas"
     accent = "1"
     title = "Meet"
@@ -35,7 +35,7 @@
     accent = "2"
     title = "Stewardship"
     text = "Serving our community and world"
-    url = "/steward"
+    url = "//seymquakers.org/faith-in-action/earthcare/#"
 
 [feature_images]
   enable = true
