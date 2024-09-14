@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gainesville Quaker</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gainesvillequakers.org/</link>
     <description>Recent content on Gainesville Quaker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2024 12:05:38 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gainesvillequakers.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/events/</link>
+      <link>https://gainesvillequakers.org/events/</link>
       <pubDate>Fri, 29 Mar 2024 12:05:38 -0400</pubDate>
-      <guid>http://localhost:1313/events/</guid>
+      <guid>https://gainesvillequakers.org/events/</guid>
       <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=df35b243b546f45efd82841164b26fb7f246916bea305b17faba6c2523741dd6%40group.calendar.google.com&amp;ctz=America%2FDetroit&#34; style=&#34;border: 0&#34; width=&#34;800&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Calendar</title>
-      <link>http://localhost:1313/calendar/</link>
+      <link>https://gainesvillequakers.org/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/calendar/</guid>
+      <guid>https://gainesvillequakers.org/calendar/</guid>
       <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/u/0/embed?src=c_aeb6daa26ef0fb3a28d1f91f33ce5af0d401ecd93c0ebca37e6f566683415e0a@group.calendar.google.com&amp;ctz=America/New_York&#34; width=&#34;925&#34; height=&#34;650&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://gainesvillequakers.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://gainesvillequakers.org/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>Members</title>
-      <link>http://localhost:1313/members/</link>
+      <link>https://gainesvillequakers.org/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/members/</guid>
+      <guid>https://gainesvillequakers.org/members/</guid>
       <description>&lt;p&gt;MORE TO COME!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Meetinghouse</title>
-      <link>http://localhost:1313/meetinghouse/</link>
+      <link>https://gainesvillequakers.org/meetinghouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meetinghouse/</guid>
-      <description>&lt;h2 id=&#34;our-meetinghouse-is-open-to-all&#34;&gt;Our meetinghouse is open to all.&lt;/h2&gt;&#xA;&lt;p&gt;Please come and join us! Our &lt;a href=&#34;http://localhost:1313/about&#34;&gt;about page&lt;/a&gt; has more information about Quaker worship.&lt;/p&gt;&#xA;&lt;h3 id=&#34;meeting-in-nature&#34;&gt;Meeting in nature&lt;/h3&gt;&#xA;&lt;p&gt;Some members also choose to worship in nature. Friends who prefer meet on our property at the end our long driveway. Same time as our regular meeting 11 A.M. Sunday (First day).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/MfWiN.jpg&#34; alt=&#34;friends meeting in nature&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://gainesvillequakers.org/meetinghouse/</guid>
+      <description>&lt;h2 id=&#34;our-meetinghouse-is-open-to-all&#34;&gt;Our meetinghouse is open to all.&lt;/h2&gt;&#xA;&lt;p&gt;Please come and join us! Our &lt;a href=&#34;https://gainesvillequakers.org/about&#34;&gt;about page&lt;/a&gt; has more information about Quaker worship.&lt;/p&gt;&#xA;&lt;h3 id=&#34;meeting-in-nature&#34;&gt;Meeting in nature&lt;/h3&gt;&#xA;&lt;p&gt;Some members also choose to worship in nature. Friends who prefer meet on our property at the end our long driveway. Same time as our regular meeting 11 A.M. Sunday (First day).&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://gainesvillequakers.org/img/MfWiN.jpg&#34; alt=&#34;friends meeting in nature&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
